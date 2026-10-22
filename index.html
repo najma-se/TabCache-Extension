@@ -1,14 +1,25 @@
+<!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
         <link rel="stylesheet" href="index.css">
     </head>
     <body>
-        <input type="text" id="input-el">
-        <button id="input-btn">SAVE INPUT</button>
-        <button id="tab-btn">SAVE TAB</button>
-        <button id="delete-btn">DELETE ALL</button>
-        <ul id="ul-el">
-        </ul>
+        <div class="container">
+            <input type="text" id="input-el" placeholder="Write the URL here or save the current Tab Url">
+            
+            <div class="button-group">
+                <button id="input-btn">Save Input</button>
+                <button id="tab-btn">Save Tab</button>
+            </div>
+
+            <button id="delete-btn">Delete All</button>
+            
+            <h2>Saved Tabs</h2>
+            <ul id="ul-el">
+            </ul>
+        </div>
+        
         <script src="index.js"></script>
     </body>
 </html>
