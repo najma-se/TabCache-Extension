@@ -1,11 +1,11 @@
-# TabSaver - Chrome Extension
+# TabCache - Chrome Extension
 
-TabSaver is a simple Chrome extension that allows you to save and manage your browser tabs.  
+TabCache is a simple Chrome extension that allows you to save and manage your browser tabs.  
 With one click, you can store the current tab, add custom links, and revisit them later — keeping your browsing organized and clutter-free.
 
 ---
 
-## 🚀 Features
+## Features
 - **Save Current Tab** – quickly store the active tab’s link.  
 - **Save Custom Link** – add any URL manually.  
 - **View Saved Tabs** – see all saved links in the popup.  
