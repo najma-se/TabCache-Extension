@@ -17,7 +17,7 @@ With one click, you can store the current tab, add custom links, and revisit the
 ## 📂 Project Structure
 ```
 
-TabSaver/
+TabCache/
 ├── manifest.json   # Extension configuration
 ├── index.html      # Popup UI
 ├── index.css       # Styling
